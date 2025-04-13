@@ -1,7 +1,7 @@
 # 🧠 Estructura de Datos y Algoritmos – Semana 4
 
 > 🔁 **Tema:** Pilas (Stacks) y sus Aplicaciones  
-> 📅 **Fecha:** 07/04/2025  
+> 📅 **Fecha:** 12/04/2025  
 > 🏫 **Institución:** Tecsup  
 > 👨‍🏫 **Profesor:** Garamendi Sarmiento, Elliot Leo
 
